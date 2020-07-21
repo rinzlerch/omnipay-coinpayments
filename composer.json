@@ -1,5 +1,5 @@
 {
-  "name": "inkedcurtis/omnipay-coinpayments",
+  "name": "rinzlerch/omnipay-coinpayments",
   "type": "library",
   "description": "Coinpayments driver for the Omnipay payment processing library",
   "keywords": [
@@ -11,12 +11,16 @@
     "pay",
     "payment"
   ],
-  "homepage": "https://github.com/inkedcurtis/omnipay-coinpayments",
+  "homepage": "https://github.com/rinzlerch/omnipay-coinpayments",
   "license": "MIT",
   "authors": [
     {
       "name": "Curtis",
       "email": "wscrewey@hotmail.com"
+    },
+    {
+      "name": "Rinzler.ch",
+      "email": "contact@rinzler.ch"
     }
   ],
   "autoload": {

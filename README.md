@@ -2,9 +2,6 @@
 
 **CoinPayments driver for the Omnipay PHP payment processing library**
 
-[![Latest Stable Version](https://poser.pugx.org/inkedcurtis/omnipay-coinpayments/version)](https://packagist.org/packages/inkedcurtis/omnipay-coinpayments)
-[![Total Downloads](https://poser.pugx.org/inkedcurtis/omnipay-coinpayments/d/total.png)](https://packagist.org/packages/inkedcurtis/omnipay-coinpayments)
-
 [Omnipay](https://github.com/omnipay/omnipay) is a framework agnostic, multi-gateway payment
 processing library for PHP 5.3+. This package implements CoinPayments support for Omnipay.
 
@@ -32,7 +29,7 @@ And run composer to update your dependencies:
 
 The following gateways are provided by this package:
 
-* Payssion
+* Coinpayments
 
 For general usage instructions, please see the main [Omnipay](https://github.com/omnipay/omnipay)
 repository.
